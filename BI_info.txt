@@ -1,0 +1,7 @@
+It has more than 500MB size, so it is uploaded on drive and link is below.
+second project is on Power BI service in Live Query Mode.
+
+1. Power BI Project link - https://drive.google.com/file/d/11HGLhG-pYVt0dmPjetsFw1YXWsCcFnXm/view?usp=sharing
+
+2. Power BI Service link - https://app.powerbi.com/groups/3b11c926-ee61-42b9-8ae6-2ce6d019bd2c/reports/8e995e8a-c579-4666-8d7f-74ed859fa843/ReportSection?experience=power-bi
+
